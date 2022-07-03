@@ -1,0 +1,19 @@
+.banner{
+    background: url(img/bg.jpg)
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: white;
+}
+h1{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 span{
+    color: crimson;
+}
+.image{
+    float:right;
+    border-radius: 50% ;
+}
